@@ -1,0 +1,34 @@
+{
+    "name": " 𝗦𝗼𝘂𝗿𝗰𝗲 الفالكيري ",
+    "description": "〔 سـورس الفالكيري 〕افضـل سـورسـات  ميوزك و حمايه العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › فـارات تلقـائيـه بسهولـه〔 حصريـاً 〕- مطـور السـورس : حسنين ",
+    "repository": "https://github.com/Hasnenny",
+    "logo": "https://i.ibb.co/8YYQQMX/1b8ea177265b.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "mongodb",
+    "Group-Manager-bot",
+    "pyrogram"
+    ],
+    "website": "https://t.me/Source_Theo",
+    "success_url": "https://t.me/OO_UB",
+    "stack": "container",
+    "env": {
+        "TOKEN": {
+            "description": "ضع توكن بوتك  @BotFather",
+            "required": true
+        },
+        "SESSION": {
+            "description": "حط جلسة البايروجرام",
+            "required": true
+        },
+        "sudoers": {
+            "description": "حط ايدي مطور البوت",
+            "required": true
+        }
+    }
+}
+
+
+
